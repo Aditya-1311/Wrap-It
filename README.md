@@ -1,6 +1,6 @@
-# XCELLERA: Modern Excel Analytics Platform
+# Wrap It: Modern Excel Analytics Platform
 
-**XCELLERA** is a full-stack web platform that empowers users to upload, analyze, visualize, and summarize Excel data with a beautiful, modern UI. Built with the MERN stack (MongoDB, Express, React, Node.js), it features secure authentication (Clerk), dynamic charting, upload history, and AI-powered summaries (mocked for demo). The platform is designed for seamless, user-friendly analytics and is ready for future enhancements.
+**Wrap It** is a full-stack web platform that empowers users to upload, analyze, visualize, and summarize Excel data with a beautiful, modern UI. Built with the MERN stack (MongoDB, Express, React, Node.js), it features secure authentication (Clerk), dynamic charting, upload history, and AI-powered summaries (mocked for demo). The platform is designed for seamless, user-friendly analytics and is ready for future enhancements.
 
 ---
 
@@ -168,8 +168,6 @@ Replace the `#` in the **Live Demo** section above with your deployed Vercel lin
 - More chart types & analytics
 - 3D/animated UI polish
 
----
 
-**Made with ❤️ by Debesh**
 
  
